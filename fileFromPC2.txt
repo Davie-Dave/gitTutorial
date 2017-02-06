@@ -1,3 +1,3 @@
 New file created from PC 2
 
-Adding some stuff to this file from PC1.
+Adding some stuff to this file from PC1 but now I changed it from pc2
